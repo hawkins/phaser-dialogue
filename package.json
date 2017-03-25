@@ -1,0 +1,30 @@
+{
+  "name": "phaser-dialogue",
+  "version": "1.0.0",
+  "description": "A proper Dialogue module for Phaser.io",
+  "main": "dialogue.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hawkins/phaser-dialogue.git"
+  },
+  "keywords": [
+    "phaser",
+    "dialogue",
+    "text"
+  ],
+  "author": "Josh Hawkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hawkins/phaser-dialogue/issues"
+  },
+  "homepage": "https://github.com/hawkins/phaser-dialogue#readme",
+  "devDependencies": {
+    "jest": "^19.0.2"
+  }
+}
